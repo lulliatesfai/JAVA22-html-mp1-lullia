@@ -1,0 +1,41 @@
+h1:hover{
+    text-align: center;
+    color:aqua;
+    font-style: italic;
+}
+
+p{
+    font-style:bold;
+    font-weight: bold;
+}
+
+.class{
+    text-align: center;
+}
+
+marquee{
+    color:cornflowerblue;
+  
+}
+
+
+h4{
+
+    color:blue;
+    font-style: italic;
+}
+
+li{
+    text-align: left;
+}
+
+
+    
+
+body:hover{background-color: rgb(225, 225, 164);
+    margin-right: 20px;
+    margin-left: 20x;
+    margin-top: 100px;
+  margin-bottom: 100px;
+  
+}
