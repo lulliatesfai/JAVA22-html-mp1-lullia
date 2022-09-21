@@ -1,27 +1,30 @@
 h1:hover{
+    color:pink;
     text-align: center;
-    color:aqua;
     font-style: italic;
 }
 
-p{
-    font-style:bold;
-    font-weight: bold;
+p:hover{
+    color:rgb(237, 123, 237);
+    background-color: rgb(129, 233, 129);
+    font-weight:bold;
 }
 
-.class{
+.bild{
+
     text-align: center;
+    margin: 450px
 }
 
 marquee{
     color:cornflowerblue;
+    font-weight: bold;
   
 }
 
 
 h4{
 
-    color:blue;
     font-style: italic;
 }
 
@@ -32,10 +35,33 @@ li{
 
     
 
-body:hover{background-color: rgb(225, 225, 164);
+body:hover{
+    background-color: aqua;
+    text-align: left;
     margin-right: 20px;
     margin-left: 20x;
     margin-top: 100px;
-  margin-bottom: 100px;
+    margin-bottom: 100px;
   
 }
+
+a[href*='watch?v=MHPGeQD8TvI']{
+    color:coral;
+}
+
+
+a[href*='watch?v=mw0LGzIKvoo&t=182s']{
+    color:coral;
+}
+
+a[href*='home']{
+    color:coral;
+}
+
+
+
+.bakgrund{
+  background-color: yellow;
+}
+
+
