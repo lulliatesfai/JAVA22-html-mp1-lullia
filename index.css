@@ -64,4 +64,8 @@ a[href*='home']{
   background-color: yellow;
 }
 
+.bakgrund:hover{
+    background-color: aqua;
+    
+}
 
